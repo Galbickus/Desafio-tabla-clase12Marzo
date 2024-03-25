@@ -1,0 +1,37 @@
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+
+body{
+    background-color: #35121B;
+
+}
+
+caption{
+   font-size: larger; 
+   color: antiquewhite;
+   font-family: "Roboto", sans-serif;
+   font-weight: 700;
+   font-style: normal;
+
+ }
+
+table img{
+    /* de esta forma se da dimension al primer parametro y el segundo guarda proporcion */
+     width: 233px; 
+     height: auto;
+
+}
+
+th{
+    color: antiquewhite;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}

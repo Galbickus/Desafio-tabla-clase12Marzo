@@ -1,0 +1,171 @@
+Tú
+16:22
+requerido
+guido moras
+16:23
+placeholder
+Cristian Barreto (Kis)
+16:25
+sino en js podes hacer un metodo que te quite los puntos y luego lo unis
+split() y join()
+Lara Nosti
+16:25
+placeholder="poner texto"
+roman maximiliano Palacios
+16:25
+una forma para limitar al edad
+<label>Edad</label>
+        <input type="number" min="5" max="100"> <br>
+Juan Donnini
+16:26
+no se olviden de cargar la asistencia
+Lara Nosti
+16:26
+En edad para que aparezca texto le podes poner:
+placeholder="1-99"
+Emiliano Abel Núñez
+16:30
+muy bueno
+Martin Guillen
+16:34
+si
+Facundo Yagodnig
+16:34
+sisi
+Brandon Erazo
+16:34
+Si
+Mabel Estela Escobar
+16:35
+</fieldset>
+        <fieldset>
+            <label> Cree la contraseña</label><input type="password" name="xxxxxx" >
+            <input type="submit" value="Enviar Registro">
+       </fieldset>
+       <fieldset>
+         <h1>Estadisticas Del primer año con checkbox</h1>
+         <input type="checkbox" name="opc" value="1">Opcion 1
+         <input type="checkbox" name="opc" value="2">Opcion 2
+         <input type="checkbox"  name="opc" value="3">Opcion 3
+       </fieldset>
+Gustavo Toscano
+16:36
+usas el select
+Rodrigo Gutson
+16:37
+por lo general esas opciones se suelen traer del backend, con un GET, para no generar inconsistencias
+Enzo Leal
+16:38
+jsjsj apsa pasa
+Cristian Barreto (Kis)
+16:39
+podrias crear un array con las provincias o consumir una api
+Fernando Ledezma
+16:42
+Buen consejo profe!
+Cristian Barreto (Kis)
+16:42
+el eterno estudiante!
+jaja
+Gabriela Gonzalez
+16:49
+nos puede pasar todo?
+Mabel Estela Escobar
+16:49
+<option>Tarde</option>
+guido moras
+16:50
+proba con placeholder
+Cristian Barreto (Kis)
+16:50
+un eventListener
+Lara Nosti
+16:50
+ponelo como propiedad:
+placeholder=""
+guido moras
+16:50
+ponele texto
+Carla Ruggeri
+16:51
+poner el texto en placeholder
+clara astore
+16:54
+queres dar la clase vos Rodrigo ?
+Cristian Barreto (Kis)
+16:55
+seria como un boton para limpiar los campos
+Facundo Bardoni
+16:55
+si
+ricardo ruben rocha
+16:56
+Podrá compartir el código?
+Emiliano Abel Núñez
+16:56
+👍
+Martin Guillen
+16:56
+si
+clara astore
+16:56
+google colabs
+ah, la camara
+gabriela caceres
+16:56
+oki
+Mabel Estela Escobar
+16:57
+<body>
+    <form action="link" method="post" target="_blank">
+        <caption>Formulario de Registración</caption><br>
+        <fieldset>
+            <label>Nombre</label><input type="text"><br>
+            <label>DNI</label><input type="text" required ><br>
+            <label>Apellido</label><input type="text" maxlength="5"><br>
+            <label>Edad</label><input type="number" max="999"><br>
+            <label>Año de nacimiento</label><input type="date">
+      </fieldset>
+        <fieldset>
+Rodrigo Gutson
+16:57
+lo podrias subir al drive el codigo profe?
+Mabel Estela Escobar
+16:57
+<fieldset>
+            <label> Cree la contraseña</label><input type="password" name="xxxxxx" >
+            <input type="submit" value="Enviar Registro">
+            <input type="reset" value="Borrar">
+       </fieldset>
+       <fieldset>
+         <h1>Estadisticas Del primer año con checkbox</h1>
+         <input type="checkbox" name="opc" value="1">Opcion 1
+         <input type="checkbox" name="opc" value="2">Opcion 2
+         <input type="checkbox"  name="opc" value="3">Opcion 3
+Abraham Rubin
+16:57
+https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdashboard
+Eduardo Aguilar
+16:58
+oka muchs gracias
+gabriela caceres
+16:58
+la asistencia ya pasó?
+Mabel Estela Escobar
+16:58
+</fieldset>
+       <fieldset>
+         <h2>Turnos de trabajo</h2>
+         <select name="turno">
+            <option>Mañana</option>
+            <option>Tarde</option>
+            <option>Noche</option> 
+         </select>
+
+       </fieldset>
+       <h3>Escribemos tus consulta</h3>
+       <textarea name="comentario" rows="10" cols="40" placeholder="Escribir"></textarea>
+
+    </form>
+</body>
+</html>
